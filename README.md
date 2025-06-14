@@ -24,6 +24,13 @@
 ## Executando via docker 
 `docker exec -it mongo_db mongosh -u root -p example --authenticationDatabase admin` 
 
+## Acessando via nuvel 
+1 - acesse o atlas 
+2 - logue com a conta do email
+3 - use o cluster ou cre o cluester M0 free
+4 - conecte com ele na sua ide compass
+5 - pronto
+
 ## Referencias 
 
 - https://www.mongodb.com/docs/manual/reference/method/db.collection.insertOne/ 
