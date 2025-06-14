@@ -1,0 +1,4 @@
+use contratacao
+db.contratacao.insert({"nome" : "Oliver"} )
+db.contratacao.find({})
+
